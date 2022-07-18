@@ -1,4 +1,5 @@
 Hierarchical Hybrid Predictive Control of an Autonomous Road Vehicle
+
 Qian Wang
 Clemson University
 Greenville, SC, USA
